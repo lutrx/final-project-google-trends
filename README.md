@@ -36,7 +36,8 @@ The presentation of the project has been done with Google slides:  [link](https:
 
   ## Conclusion:
 
-  
+  * It was possible to build a model that found patterns which were present in the popularity level graphs for all search queries
+  * Random Forest Model showed the best outcome with 56% predicting positive change when classification was 1 and the average positive change was ~4x higher than the average negative change in popularity levels
 
 
 
